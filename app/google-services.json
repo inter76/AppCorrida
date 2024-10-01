@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "423439949493",
+    "project_id": "appcorrida-a8744",
+    "storage_bucket": "appcorrida-a8744.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423439949493:android:cc25876b76e1602522e8fc",
+        "android_client_info": {
+          "package_name": "com.example.appcorrida"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7FOzfbHAJG4M4GtLLGKxGWg94ogA675A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
